@@ -1,0 +1,7 @@
+{
+    "Algorithm": "Gradient Boosting Classifier",
+    "Accuracy": 89.94,
+    "Dataset Records": 4024,
+    "Training Records": 3219,
+    "Testing Records": 805
+}
